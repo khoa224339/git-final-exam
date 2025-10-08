@@ -12,6 +12,11 @@ Ngày kết thúc: 15/10/2025
 8. Viết báo cáo cuối kỳ.
 9. Ôn lại kiến thức Python cơ bản.
 10. Chuẩn bị bài thuyết trình nhóm.
+<<<<<<< Updated upstream
 - Bổ sung lịch học cuối tuần
 - Nhắc lại kiến thức trước khi ngủ
 - Tự kiểm tra bằng quiz
+=======
+Gửi repo GitHub đúng hạn
+-Hoàn thiện báo cáo Git
+>>>>>>> Stashed changes
