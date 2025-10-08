@@ -1,3 +1,5 @@
 - Git giúp tôi hiểu cách làm việc nhóm hiệu quả hơn.
 - Dễ dàng theo dõi lịch sử thay đổi mã nguồn.
 - Học được cách kiểm soát phiên bản và rollback khi cần.
+- Cho phép quay lại trạng thái trước đó.
+- Hỗ trợ review và kiểm soát chất lượng.
