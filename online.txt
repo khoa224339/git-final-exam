@@ -1,3 +1,5 @@
 File này được tạo trực tiếp trên GitHub.
 Kiểm tra tính năng đồng bộ.
 Bài kiểm tra Git Final Exam.
+File đã được chỉnh sửa ở local.
+Hoàn tất phần làm việc với GitHub.
