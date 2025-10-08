@@ -3,3 +3,4 @@
 - Học được cách kiểm soát phiên bản và rollback khi cần.
 - Cho phép quay lại trạng thái trước đó.
 - Hỗ trợ review và kiểm soát chất lượng.
+Xin chào, tôi là Trần Đăng Khoa
