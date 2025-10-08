@@ -1,0 +1,6 @@
+## Tính năng mới: Quản lý người dùng
+1. Cho phép đăng ký và đăng nhập tài khoản.
+2. Mỗi người dùng có hồ sơ cá nhân riêng.
+3. Hỗ trợ cập nhật thông tin cá nhân.
+4. Tích hợp chức năng quên mật khẩu.
+5. Bổ sung xác thực 2 lớp (2FA) trong phiên bản sau.
