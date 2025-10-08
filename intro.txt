@@ -1,1 +1,15 @@
-Hello, this is Trần Đăng Khoa
+Xin chào, tôi là Trần Đăng Khoa.
+Tôi là sinh viên năm 2 ngành CNTT.
+Tôi yêu thích lập trình và công nghệ.
+Mục tiêu của tôi là trở thành lập trình viên full-stack.
+Tôi thích học hỏi và chia sẻ kiến thức.
+
+Sở thích:
+- Nghe nhạc
+- Chơi game
+- Lập trình Python
+
+Kỹ năng:
+- Sử dụng Git và GitHub
+- Viết code Python cơ bản
+- Làm việc nhóm hiệu quả
